@@ -1,5 +1,5 @@
 
-// Mateusz Wabinski_2_rok_4_semestr_nr_indeksu_146326_Grupa_D1
+
 
 #include <iostream>
 #include <fstream>
